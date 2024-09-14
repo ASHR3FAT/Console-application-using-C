@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1720588328 source:g:\gym management system(new)\gym\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+
+1726076273 source:f:\gym management system(new)\gym\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+
